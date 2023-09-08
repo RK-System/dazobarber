@@ -51,6 +51,10 @@
     height: 48px;
 }
 
+.btn-redondo {
+    border-radius: 5px;
+}
+
 .btn-square,
 .btn-sm-square,
 .btn-lg-square {
@@ -166,7 +170,7 @@
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .85), rgba(0, 0, 0, .85)), url(../img/carousel-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .40), rgba(0, 0, 0, .40)), url(carousel-1.jpg) center center no-repeat;
     background-size: cover;
 }
 
