@@ -29,6 +29,9 @@
     opacity: 1;
 }
 
+#posi {
+  align: right;
+}
 
 /*** Button ***/
 .btn {
